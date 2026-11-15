@@ -1,25 +1,40 @@
 {
-  "schemaVersion": "1.0.0",
-  "sourceName": "TrilogyMP Playtest",
-  "lastUpdated": "2026-11-14T00:00:00Z",
-  "mods": {
-    "TrilogyMP": {
-      "displayName": "TrilogyMP (playtest)",
-      "description": "Jak and Daxter, Jak II and Jak 3 in the Jak 3 engine, with online co-op. Playtest builds: needs your own Jak 3, Jak II and Jak and Daxter ISOs (it asks for Jak 1's and Jak II's while it installs).",
-      "authors": [
-        "screen names"
-      ],
-      "tags": [
-        "gameplay-mod",
-        "multiplayer"
-      ],
-      "supportedGames": [
-        "jak3"
-      ],
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
-      "coverArtUrl": "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
-      "versions": []
-    }
-  },
-  "texturePacks": {}
+    "schemaVersion":  "1.0.0",
+    "sourceName":  "TrilogyMP Playtest",
+    "lastUpdated":  "2026-11-15T01:51:14Z",
+    "mods":  {
+                 "TrilogyMP":  {
+                                   "displayName":  "TrilogyMP (playtest)",
+                                   "description":  "Jak and Daxter, Jak II and Jak 3 in the Jak 3 engine, with online co-op. Playtest builds: needs your own Jak 3, Jak II and Jak and Daxter ISOs (it asks for Jak 1\u0027s and Jak II\u0027s while it installs).",
+                                   "authors":  [
+                                                   "screen names"
+                                               ],
+                                   "tags":  [
+                                                "gameplay-mod",
+                                                "multiplayer"
+                                            ],
+                                   "supportedGames":  [
+                                                          "jak3"
+                                                      ],
+                                   "thumbnailArtUrl":  "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
+                                   "coverArtUrl":  "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
+                                   "versions":  [
+                                                    {
+                                                        "version":  "0.1.481",
+                                                        "publishedDate":  "2026-11-15T01:51:14Z",
+                                                        "assets":  {
+                                                                       "windows":  "https://github.com/nameonascreen/TrilogyMP-Playtest/releases/download/v0.1.481/TrilogyMP-v0.1.481-windows.zip",
+                                                                       "linux":  null,
+                                                                       "macos":  null
+                                                                   },
+                                                        "supportedGames":  [
+                                                                               "jak3"
+                                                                           ]
+                                                    }
+                                                ]
+                               }
+             },
+    "texturePacks":  {
+
+                     }
 }
