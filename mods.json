@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "sourceName": "TrilogyMP Playtest",
+  "lastUpdated": "2026-11-14T00:00:00Z",
+  "mods": {
+    "TrilogyMP": {
+      "displayName": "TrilogyMP (playtest)",
+      "description": "Jak and Daxter, Jak II and Jak 3 in the Jak 3 engine, with online co-op. Playtest builds: needs your own Jak 3, Jak II and Jak and Daxter ISOs (it asks for Jak 1's and Jak II's while it installs).",
+      "authors": [
+        "screen names"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "multiplayer"
+      ],
+      "supportedGames": [
+        "jak3"
+      ],
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
+      "coverArtUrl": "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
+      "versions": []
+    }
+  },
+  "texturePacks": {}
+}
