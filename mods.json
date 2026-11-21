@@ -1,7 +1,7 @@
 {
     "schemaVersion":  "1.0.0",
     "sourceName":  "TrilogyMP Playtest",
-    "lastUpdated":  "2026-11-16T08:19:13Z",
+    "lastUpdated":  "2026-11-21T04:52:26Z",
     "mods":  {
                  "TrilogyMP":  {
                                    "displayName":  "TrilogyMP (playtest)",
@@ -19,6 +19,18 @@
                                    "thumbnailArtUrl":  "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
                                    "coverArtUrl":  "https://raw.githubusercontent.com/nameonascreen/TrilogyMP-Playtest/main/thumbnail.png",
                                    "versions":  [
+                                                    {
+                                                        "version":  "0.1.681",
+                                                        "publishedDate":  "2026-11-21T04:52:26Z",
+                                                        "assets":  {
+                                                                       "windows":  "https://github.com/nameonascreen/TrilogyMP-Playtest/releases/download/v0.1.681/TrilogyMP-v0.1.681-windows.zip",
+                                                                       "linux":  null,
+                                                                       "macos":  null
+                                                                   },
+                                                        "supportedGames":  [
+                                                                               "jak3"
+                                                                           ]
+                                                    },
                                                     {
                                                         "version":  "0.1.565",
                                                         "publishedDate":  "2026-11-16T08:19:13Z",
